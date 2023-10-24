@@ -8,6 +8,12 @@
       "expo-router"
     ],
     "name": "jobsearch",
-    "slug": "jobsearch"
+    "slug": "jobsearch",
+    "android": {
+      "package": "com.anonymous.jobsearch"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.jobsearch"
+    }
   }
 }
